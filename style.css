@@ -1,0 +1,25 @@
+body {
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+    background-color: hsl(210, 57%, 78%); 
+}
+
+img {
+    width: 25%;
+    height: 70%; 
+    object-fit: cover;
+    border-radius: 10px; 
+    margin-bottom: 20px; 
+}
+
+h1 {
+    font-size: 36px; 
+    color: #333; 
+    margin-bottom: 10px; 
+}
+
+p {
+    font-size: 18px; 
+    color: #666; 
+    margin-bottom: 20px; 
+}
